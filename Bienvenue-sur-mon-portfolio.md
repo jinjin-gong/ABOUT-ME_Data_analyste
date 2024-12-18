@@ -10,7 +10,7 @@ My CV
 
 Profils professionnels
 
-[Github] https://github.com/jinjinamanda
+[Github] (https://github.com/jinjin-gong)
 
 [LinkedIn] https://www.linkedin.com/in/jinjin-gong-43091914/
 
